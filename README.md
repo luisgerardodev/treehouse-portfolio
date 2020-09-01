@@ -6,12 +6,10 @@ Some completed challenges from my Front-End Web Developer Track on [Treehouse](h
 
 ![Image](./project-images/best-city-guide.png =500x)
 
-[![Image](./project-images/best-city-guide.png =500x)][https://luisgerardodev.github.io/treehouse-portfolio/css-floats/]
-
-Responsive web layout using the CSS `float` property. [Go to page](https://luisgerardodev.github.io/treehouse-portfolio/css-floats/).
+Responsive web layout using the CSS `float` property. [See page](https://luisgerardodev.github.io/treehouse-portfolio/css-floats/).
 
 ## Lake Tahoe, California
 
 ![Image](./project-images/lake-tahoe.png =500x)
 
-Responsive landing page layout using background image with a color overlay. [See it page](https://luisgerardodev.github.io/treehouse-portfolio/css-shadows/).
+Responsive landing page layout using background image with a color overlay. [See page](https://luisgerardodev.github.io/treehouse-portfolio/css-shadows/).

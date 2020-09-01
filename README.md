@@ -8,7 +8,7 @@ Some completed challenges from my Front-End Web Developer Track on [Treehouse](h
 
 --------------
 
-[![Image](./project-images/best-city-guide.png)][https://luisgerardodev.github.io/treehouse-portfolio/css-floats/]
+[![Image](./project-images/best-city-guide.png)](https://luisgerardodev.github.io/treehouse-portfolio/css-floats/)
 
 Responsive web layout using the CSS `float` property. [Go to page](https://luisgerardodev.github.io/treehouse-portfolio/css-floats/).
 

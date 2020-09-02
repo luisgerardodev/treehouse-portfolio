@@ -10,9 +10,9 @@ Responsive web layout using the CSS `float` property. [Go to page](https://luisg
 
 ## Best City Guide 2 (fixed nav)
 
-[![Image](./project-images/best-city-guide.png)](https://luisgerardodev.github.io/treehouse-portfolio/css-position/)
+[![Image](./project-images/best-city-guide-2.png)](https://luisgerardodev.github.io/treehouse-portfolio/css-position/)
 
-Responsive web layout using the CSS `float` and `position` properties. [Go to page](https://luisgerardodev.github.io/treehouse-portfolio/css-shadows/).
+Responsive web layout using the CSS `float` and `position` properties. [Go to page](https://luisgerardodev.github.io/treehouse-portfolio/css-position/).
 
 ## Lake Tahoe, California
 

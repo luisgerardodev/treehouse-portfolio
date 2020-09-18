@@ -4,7 +4,7 @@ Some completed challenges from my _Front-End Web Developer Track_ on [Treehouse]
 
 ## JavaScript and the DOM - Interactive List
 
-[![Image](./project-images/best-city-guide.png)](https://luisgerardodev.github.io/treehouse-portfolio/js-list/)
+[![Image](./project-images/js-list.png)](https://luisgerardodev.github.io/treehouse-portfolio/js-list/)
 
 Making a web page interactive using the __JavaScript__ to toggle between showing or hiding a list. Add, remove and move `<li>` elements. [Go to page](https://luisgerardodev.github.io/treehouse-portfolio/js-list/).
 

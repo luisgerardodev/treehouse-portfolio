@@ -2,11 +2,17 @@
 
 Some completed challenges from my _Front-End Web Developer Track_ on [Treehouse](https://teamtreehouse.com/).
 
+## Full Stack Conf - Bootstrap 4.5
+
+[![Image](./project-images/fullstack-conf.png)](https://luisgerardodev.github.io/treehouse-portfolio/fullstack-conf/)
+
+Responsive web page using **Bootstrap 4.5** components including NavBars, Forms, Modals, Cards, and more. [Go to page](https://luisgerardodev.github.io/treehouse-portfolio/fullstack-conf/).
+
 ## JavaScript and the DOM - Interactive List
 
 [![Image](./project-images/js-list.png)](https://luisgerardodev.github.io/treehouse-portfolio/js-list/)
 
-Making a web page interactive using the __JavaScript__ to toggle between showing or hiding a list. Add, remove and move `<li>` elements. [Go to page](https://luisgerardodev.github.io/treehouse-portfolio/js-list/).
+Making a web page interactive using the **JavaScript** to toggle between showing or hiding a list. Add, remove and move `<li>` elements. [Go to page](https://luisgerardodev.github.io/treehouse-portfolio/js-list/).
 
 ## Best City Guide
 

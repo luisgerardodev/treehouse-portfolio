@@ -1,0 +1,28 @@
+.navbar .navbar-brand {
+  color: rgba(255, 255, 255, 0.85);
+  font-size: 1rem;
+}
+
+.jumbotron {
+  background-image: url("../img/jumbo-bg.jpg");
+  background-size: cover;
+}
+
+.badge-custom {
+  background-color: #3eb6d9;
+  color: white;
+}
+
+.btn-outline-custom {
+  color: #3eb6d9;
+  border-color: #3eb6d9;
+}
+
+.list-group-item-custom {
+  color: rgb(1, 78, 149);
+  background-color: lightblue;
+}
+
+.bg-custom {
+  background-color: #3eb6d9;
+}

@@ -2,6 +2,12 @@
 
 Some completed challenges from my _Front-End Web Developer Track_ on [Treehouse](https://teamtreehouse.com/).
 
+## DoggoSelect - Fetch() API
+
+[![Image](./project-images/doggo.png)](https://luisgerardodev.github.io/treehouse-portfolio/doggo/)
+
+Simple web app using **Fetch() API** to fetch resources such as images and dog breeds from [Dog Api](https://dog.ceo/dog-api/). [Go to page](https://luisgerardodev.github.io/treehouse-portfolio/doggo/).
+
 ## Full Stack Conf - Bootstrap 4.5
 
 [![Image](./project-images/fullstack-conf.png)](https://luisgerardodev.github.io/treehouse-portfolio/fullstack-conf/)
